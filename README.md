@@ -10,7 +10,7 @@ This project is a simple Water Level Indicator designed using Tinkercad. It indi
 - Jumper Wires
 - Water Level Sensor/Probes
 - Breadboard
-- Water Tank (3D Model)
+
 
 ## Features
 - Detects different water levels.
